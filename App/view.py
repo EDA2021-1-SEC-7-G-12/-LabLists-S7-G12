@@ -79,7 +79,8 @@ def printBestBooks(books):
     else:
         print('No se encontraron libros')
 
-catalog   = None  
+
+catalog = None
 
 """
 Menu principal
